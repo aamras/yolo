@@ -1,2 +1,2 @@
 # yolo
-Yolo implentation on video
+Yolo implentation on python using Opencv
